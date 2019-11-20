@@ -1,0 +1,25 @@
+{
+  "name": "bitify",
+  "version": "1.0.0",
+  "description": "Generate a bitmask that rappresent a world region, a country or a group of countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreaborio/bitify.git"
+  },
+  "keywords": [
+    "bit",
+    "mask",
+    "bitmap",
+    "country"
+  ],
+  "author": "Andrea Borio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreaborio/bitify/issues"
+  },
+  "homepage": "https://github.com/andreaborio/bitify#readme"
+}
